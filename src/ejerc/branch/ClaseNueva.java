@@ -18,4 +18,5 @@ public class ClaseNueva {
         else
             System.out.println("La perdida es el "+(n1-n2)/n2*100+"%");
     }
+    //versión lista para ejecutar
 }
